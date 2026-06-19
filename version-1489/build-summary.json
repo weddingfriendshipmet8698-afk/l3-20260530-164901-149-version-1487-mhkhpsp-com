@@ -1,0 +1,19 @@
+{
+  "site_title": "最新电影大全-最新影片合集-高清视频在线播放",
+  "record_count": 2000,
+  "category_counts": {
+    "latest": 200,
+    "guochan": 200,
+    "gangtai": 198,
+    "rihan": 200,
+    "oumei": 201,
+    "action": 200,
+    "comedy": 199,
+    "thriller": 200,
+    "drama": 201,
+    "animation": 201
+  },
+  "detail_pages": 2000,
+  "image_rule": "Pages reference top-level 1.jpg through 150.jpg in a loop; no placeholder images were generated.",
+  "video_sources": "m3u8 URLs extracted from uploaded original JS and reused cyclically."
+}
